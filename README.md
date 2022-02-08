@@ -10,7 +10,7 @@ This was a school project. The project goal was to build a system for customers 
 * MS SQL Server /*I used 18 */
 ## Usage
 * Clone the repository
-    `git clone https://github.com/cybercyber1/BillManagmentSystem.git`
+    `git clone https://github.com/samicsc0/BillManagmentSystem.git`
 * Import it to the Eclipse IDE
 * Open MS SQL
 * Import the sql.sql file from the repo
